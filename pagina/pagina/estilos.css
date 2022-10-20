@@ -544,3 +544,17 @@ img{
 section:last-child {
   margin-bottom: 150px;
 }
+
+@media only screen and(max-width: 1000px){
+	
+}
+
+..title{
+    background-color: white;
+    height: 5vh;
+    margin: 5%;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
